@@ -4,4 +4,4 @@ Hola, mi nombre es Gastón Oyola👋
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@gaston_oyola06-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/gaston_oyola06/)
 </br>
-
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
